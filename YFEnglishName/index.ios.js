@@ -16,7 +16,7 @@ import {
 
 import NameIndex from './Components/NameIndex';
 
-export default class AwesomeProject extends Component {
+export default class YFEnglishName extends Component {
     render() {
 
         return (
@@ -26,7 +26,6 @@ export default class AwesomeProject extends Component {
                 let Component = route.component;
                 return <Component {...route.params} navigator={navigator} />
               }}></Navigator>
-
         );
 
 
@@ -35,4 +34,4 @@ export default class AwesomeProject extends Component {
 }
 
 
-AppRegistry.registerComponent('AwesomeProject', () => AwesomeProject);
+AppRegistry.registerComponent('YFEnglishName', () => YFEnglishName);
