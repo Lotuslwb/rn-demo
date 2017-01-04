@@ -2,47 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97245467-ed20-483b-8b0f-b657ece8d29b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/bg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/bg4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/bg5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/bg6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/form-title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/index-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/playicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/qcode22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/share-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/img/sharetxt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/bg1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/bg2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/bg3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/bg4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/bg5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/bg6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/form-title.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/index-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/playicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/qcode22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/share-banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/img/sharetxt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/NameIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AwesomeProject/Components/movieList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/MovieList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/MyScene.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Components/NameStorage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/Style/NameStyle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Images.xcassets/AppIcon.appiconset/Contents.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/rn-demo.iml" afterPath="$PROJECT_DIR$/.idea/rn-demo.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/Images.xcassets/AppIcon.appiconset/logo120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/Images.xcassets/AppIcon.appiconset/logo180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Images.xcassets/logo222.imageset/logo222.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/bg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/bg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/bg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/bg5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/bg6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/index-banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/playicon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/assets/Components/img/qcode22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/index.ios.jsbundle.meta" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Images.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Images.xcassets/logo222.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YFEnglishName/ios/bundle/index.ios.jsbundle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AwesomeProject/components/MyScene.js" afterPath="$PROJECT_DIR$/AwesomeProject/components/MyScene.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AwesomeProject/index.ios.js" afterPath="$PROJECT_DIR$/AwesomeProject/index.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AwesomeProject/package.json" afterPath="$PROJECT_DIR$/AwesomeProject/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js" afterPath="$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js" afterPath="$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/android/app/build.gradle" afterPath="$PROJECT_DIR$/YFEnglishName/android/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/android/app/src/main/java/com/yfenglishname/MainActivity.java" afterPath="$PROJECT_DIR$/YFEnglishName/android/app/src/main/java/com/yfenglishname/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/YFEnglishName/android/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/android/settings.gradle" afterPath="$PROJECT_DIR$/YFEnglishName/android/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName.xcodeproj/xcshareddata/xcschemes/YFEnglishName.xcscheme" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName.xcodeproj/xcshareddata/xcschemes/YFEnglishName.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/AppDelegate.m" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Base.lproj/LaunchScreen.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Info.plist" afterPath="$PROJECT_DIR$/YFEnglishName/ios/YFEnglishName/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YFEnglishName/package.json" afterPath="$PROJECT_DIR$/YFEnglishName/package.json" />
     </list>
     <ignored path="rn-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,21 +53,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NameStyle.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YFEnglishName/Style/NameStyle.js">
+      <file leaf-file-name="NameDetail.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="48" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="390">
+              <caret line="101" column="24" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#4889#5787#0" expanded="false" />
+                <element signature="e#5812#6709#0" expanded="false" />
+                <marker date="1483429046000" expanded="true" signature="1048:1066" ph="..." />
+                <marker date="1483429046000" expanded="true" signature="1066:4081" ph="..." />
+                <marker date="1483429046000" expanded="true" signature="1111:1133" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NameStorage.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameStorage.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YFEnglishName/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="210">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -86,28 +83,10 @@
       <file leaf-file-name="NameIndex.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="84" column="58" selection-start-line="84" selection-start-column="58" selection-end-line="84" selection-end-column="58" />
+            <state relative-caret-position="1875">
+              <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
               <folding>
-                <element signature="e#156#195#0" expanded="true" />
-                <element signature="e#3080#3972#0" expanded="false" />
-                <element signature="e#3994#4305#0" expanded="false" />
-                <element signature="e#4328#4461#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NameDetail.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <marker date="1482757889000" expanded="true" signature="876:894" ph="..." />
-                <marker date="1482757889000" expanded="true" signature="894:2663" ph="..." />
-                <marker date="1482757889000" expanded="true" signature="938:960" ph="..." />
+                <element signature="e#4686#4819#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -141,9 +120,10 @@
         <option value="$PROJECT_DIR$/YFEnglishName/node_modules/react-native-loading-spinner-overlay/src/index.js" />
         <option value="$PROJECT_DIR$/YFEnglishName/Components/MyScene.js" />
         <option value="$PROJECT_DIR$/YFEnglishName/Components/NameStorage.js" />
-        <option value="$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js" />
         <option value="$PROJECT_DIR$/YFEnglishName/Style/NameStyle.js" />
+        <option value="$PROJECT_DIR$/YFEnglishName/package.json" />
         <option value="$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js" />
+        <option value="$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js" />
       </list>
     </option>
   </component>
@@ -202,8 +182,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,24 +203,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="YFEnglishName" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rn-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rn-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YFEnglishName" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,32 +333,38 @@
       <workItem from="1482734402208" duration="1615000" />
       <workItem from="1482757497867" duration="1267000" />
       <workItem from="1482819817478" duration="2371000" />
+      <workItem from="1482977231340" duration="4424000" />
+      <workItem from="1483004742319" duration="3650000" />
+      <workItem from="1483065645805" duration="69000" />
+      <workItem from="1483070021408" duration="899000" />
+      <workItem from="1483426996500" duration="3485000" />
+      <workItem from="1483448719144" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58570000" />
+    <option name="totallyTimeSpent" value="71156000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -417,23 +385,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AwesomeProject/Components/NameIndex.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#156#195#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AwesomeProject/Components/MovieList.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="82" column="69" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AwesomeProject/index.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -666,9 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="65" column="28" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="28" />
-          <folding>
-            <element signature="e#540#566#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -695,10 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#111#150#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,16 +656,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js">
+    <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameStorage.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <marker date="1482757889000" expanded="true" signature="876:894" ph="..." />
-            <marker date="1482757889000" expanded="true" signature="894:2663" ph="..." />
-            <marker date="1482757889000" expanded="true" signature="938:960" ph="..." />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -733,24 +671,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js">
+    <entry file="file://$PROJECT_DIR$/YFEnglishName/node_modules/react-native-wechat/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="84" column="58" selection-start-line="84" selection-start-column="58" selection-end-line="84" selection-end-column="58" />
+        <state relative-caret-position="690">
+          <caret line="48" column="59" selection-start-line="48" selection-start-column="39" selection-end-line="48" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="101" column="24" selection-start-line="101" selection-start-column="19" selection-end-line="101" selection-end-column="24" />
           <folding>
-            <element signature="e#156#195#0" expanded="true" />
-            <element signature="e#3080#3972#0" expanded="false" />
-            <element signature="e#3994#4305#0" expanded="false" />
-            <element signature="e#4328#4461#0" expanded="false" />
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#4889#5787#0" expanded="false" />
+            <element signature="e#5812#6709#0" expanded="false" />
+            <marker date="1483429046000" expanded="true" signature="1048:1066" ph="..." />
+            <marker date="1483429046000" expanded="true" signature="1066:4081" ph="..." />
+            <marker date="1483429046000" expanded="true" signature="1111:1133" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameStorage.js">
+    <entry file="file://$PROJECT_DIR$/YFEnglishName/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YFEnglishName/Components/NameIndex.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="143" column="4" selection-start-line="143" selection-start-column="4" selection-end-line="143" selection-end-column="4" />
+          <folding>
+            <element signature="e#4686#4819#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>

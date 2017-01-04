@@ -1,6 +1,8 @@
 package com.yfenglishname;
 
 import com.facebook.react.ReactActivity;
+import com.brentvatne.react.ReactVideoPackage;
+import com.theweflex.react.WeChatPackage;
 
 public class MainActivity extends ReactActivity {
 

@@ -86,6 +86,7 @@ export default class NameIndex extends Component {
     }
 
     onPressSubmit() {
+
         var data = {'name': this.state.text, 'sex': this.state.gender ? 0 : 1};
         //校验
         if (!data.name.length) {
@@ -106,6 +107,9 @@ export default class NameIndex extends Component {
                 return false;
             }
             this.setState({loading: false});
+
+            console.log(data);
+
             const {navigator} = this.props;
             if (navigator) {
                 navigator.push({
@@ -120,6 +124,16 @@ export default class NameIndex extends Component {
 
     fetchName(data) {
         var api = 'http://page.ctrlc.cc/api/name.php';
+        var params = data;
+        let paramsArray = []
+        Object.keys(params).forEach(key => paramsArray.push(key + '=' + encodeURIComponent(params[key])))
+        if (api.search(/\?/) === -1) {
+            api += '?' + paramsArray.join('&')
+        } else {
+            api += '&' + paramsArray.join('&')
+        }
+
+
         return fetch(api, {params: data})
             .then((response)=>response.json())
             .then((data)=> {
